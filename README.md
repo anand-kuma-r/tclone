@@ -1,2 +1,2 @@
 # tclone
-A clone of twitter to get moreexperience with react.js
+A clone of twitter to get more experience with react.js
